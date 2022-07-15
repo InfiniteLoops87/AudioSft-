@@ -23,3 +23,7 @@ Here they will be updated from time to time!
 - Version: 1.0 (Alpha);
 
 - That's it. Maybe the details about the project will be updated!
+
+# Audio Filters (FX):
+- [x] Pitch Shift (Pitch and Speed)
+- [x] 5-band equalizer
