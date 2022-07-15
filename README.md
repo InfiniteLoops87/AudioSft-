@@ -1,7 +1,7 @@
 # Hello!
 This is our project that we are creating. It's about audio editing. This project is not yet done.
 
-https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha
+[![stability-alpha](https://img.shields.io/badge/stability-alpha-f4d03f.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha)
 
 Here they will be updated from time to time!
 
