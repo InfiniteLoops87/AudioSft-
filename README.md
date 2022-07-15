@@ -1,6 +1,8 @@
 # Hello!
 This is our project that we are creating. It's about audio editing. This project is not yet done.
 
+https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha
+
 Here they will be updated from time to time!
 
 # Project info:
