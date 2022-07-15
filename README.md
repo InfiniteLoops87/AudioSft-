@@ -11,18 +11,15 @@ Here they will be updated from time to time!
 
 - Project /app package name: *com.inflps.audiosft*
 
-- Programming language: Java, C, C++, C#, Swift, Ruby, Phyton and Kotlin.
+- Programming language: Java.
 
 - Chances of appearing in different devices : 
-   Android: 95-96 %
-   Windows: 65-80 %
-   iOS: 35-50 %
-   MacOS: 25-40 %
-   Linux: 20-35 %
-   Others (Solaris, ChromeOS, etc.) 15-30 %
+   Android.
 
 - License: Free 
 
 - Other libraries used (GitHub): Not yet, but will appear here.
+
+- Version: 1.0 (Alpha);
 
 - That's it. Maybe the details about the project will be updated!
